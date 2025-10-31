@@ -1,0 +1,17 @@
+# Python virtual envs
+.venv/
+server/.venv/
+venv/
+ENV/
+
+# Node
+node_modules/
+
+# App data
+server/uploads/*
+!server/uploads/.gitkeep
+warehouse.db
+
+# Usual
+__pycache__/
+*.py[cod]

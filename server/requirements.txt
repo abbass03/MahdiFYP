@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic==1.*
+SQLAlchemy==2.*
+alembic
+easyocr
+Pillow
+numpy
